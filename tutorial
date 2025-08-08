@@ -1,0 +1,8 @@
+def mystery(a, b):
+
+
+
+
+
+print(mystery(3,5) == 25)
+  
