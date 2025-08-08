@@ -4,5 +4,5 @@ def mystery(a, b):
 
 
 
-print(mystery(3,5) == 25)
+print(mystery(3,5) == 28)
   
